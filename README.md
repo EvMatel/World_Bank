@@ -4,4 +4,6 @@ check data availability by country, and retrieve cleaned time series datasets. B
 when specifying country names. The class supports additional functionality like 
 completeness filtering, interpolation of sparse data, and importing entire datasets for exploratory analysis.
 
+The class is written in the WorldBank.ipynb file.
+
 I am actively working on this and planning on developing new features and upgrading existing ones as I learn more.
